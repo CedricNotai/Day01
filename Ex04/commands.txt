@@ -6,3 +6,4 @@ chmod 775 test3
 chmod 664 test4
 chmod 111 test5
 stat -l -t '%b %-d %Y' *
+touch -a -m -t 207701010130.09 test1
