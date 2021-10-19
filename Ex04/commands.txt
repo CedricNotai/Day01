@@ -1,0 +1,8 @@
+ls -ld *
+chmod 775 test0
+chmod 744 test1
+chmod 664 test2
+chmod 775 test3
+chmod 664 test4
+chmod 111 test5
+stat -l -t '%b %-d %Y' *
