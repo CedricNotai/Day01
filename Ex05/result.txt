@@ -1,0 +1,4 @@
+result.txt
+Mar 19 oct 2021 13:41:17 CEST
+admin    console  Oct 19 08:57 
+admin    ttys000  Oct 19 09:09 
