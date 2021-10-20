@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -n+11 /etc/passwd | cut -d: -f1 | xargs
+tail -n+11 /etc/passwd | sort | tr -d _ | cut -d: -f1 | xargs
