@@ -4,4 +4,4 @@ ls ?e*
 ls [a-e]*
 ls [^aeiouy]*
 ls *[^.p?p]
-ls *[^.p?p.txt]
+ls *[^.p?p,^.txt]
